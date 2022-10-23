@@ -16,3 +16,7 @@
 
 **5.Aşama**
 [2,6,16,18,22,27]
+
+
+## Soru - 2
+Big - O Gösterimini Yazınız
