@@ -31,7 +31,7 @@ Big O Gösterimi O(n²) şeklinde olacaktır.
 
 ## Soru - 3
 Time Complexity:
-**Patika içerisindeki verilen 3.soru anlaşılabilir olmadığından bu soru cevaplanamadı.(Soru Eksik!)**
+*Patika içerisindeki verilen 3.soru anlaşılabilir olmadığından bu soru cevaplanamadı.(Soru Eksik!)*
 
 
 ## Soru - 4
@@ -45,3 +45,20 @@ Dizi sıralandıktan sonra bu algoritmaya göre ilk aşamada n kadar işlem olac
 Best Case:2
 Average Case:18
 Worst Case:27
+
+
+## Soru -5
+
+[7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
+
+**1.Aşama**
+[2,3,5,8,7,9,4,15,6]
+
+**2.Aşama**
+[2,3,5,8,7,9,4,15,6]
+
+**3.Aşama**
+[2,3,4,8,7,9,5,15,6]
+
+**4.Aşama**
+[2,3,4,5,7,9,8,15,6]
