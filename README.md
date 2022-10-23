@@ -27,3 +27,21 @@ Verilen dizi ilk başta n kadar, daha sonra ise 1 azalarak (n-1) şeklinde devam
 
 Buda her seferinde n + (n-1) + (n-2) şeklinde devam edeceğinden (n * (n+1)) / 2'den ağırlıkta ki
 Big O Gösterimi O(n²) şeklinde olacaktır.
+
+
+## Soru - 3
+Time Complexity:
+**Patika içerisindeki verilen 3.soru anlaşılabilir olmadığından bu soru cevaplanamadı.(Soru Eksik!)**
+
+
+## Soru - 4
+Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer.
+
+Dizinin sıralanmış hali aşağıdaki gibidir.
+
+[2,6,16,18,22,27]
+
+Dizi sıralandıktan sonra bu algoritmaya göre ilk aşamada n kadar işlem olacağından Average Case kapsamına girer.
+Best Case:2
+Average Case:18
+Worst Case:27
